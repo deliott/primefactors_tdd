@@ -14,12 +14,12 @@ def factors_of(num):
     :return: a list of the prime factors of num
     """
     factors = []
-    if num > 1:
-        while num % 2 == 0:
-            factors.append(2)
-            num = num // 2
-    if num > 1:
-        factors.append(num)
+    divisor = 2
+    while num > 1:
+        while num % divisor == 0:
+            factors.append(divisor)
+            num = num // divisor
+        divisor += 1
 
     return factors
 

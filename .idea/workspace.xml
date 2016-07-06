@@ -28,8 +28,8 @@
       <file leaf-file-name="primefactors.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/primefactorstdd/primefactors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state relative-caret-position="371">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -38,8 +38,8 @@
       <file leaf-file-name="primefactorstests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/primefactorstdd/primefactorstests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+            <state relative-caret-position="395">
+              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
               <folding>
                 <element signature="e#97#112#0" expanded="true" />
               </folding>
@@ -349,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1467783284798</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add specific tests for 5,6,7 and 8 generalized functions so all tests pass">
+      <created>1467784585687</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1467784585687</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -409,7 +416,8 @@
     <MESSAGE value="add gitignore + readme.rst" />
     <MESSAGE value="add changes to  workspace.xml even .idea/ is in git ignore" />
     <MESSAGE value="Add specific tests for 2,3,4 generalized functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add specific tests for 2,3,4 generalized functions" />
+    <MESSAGE value="Add specific tests for 5,6,7 and 8 generalized functions so all tests pass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add specific tests for 5,6,7 and 8 generalized functions so all tests pass" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -450,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/primefactorstdd/primefactorstests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        <state relative-caret-position="395">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
           <folding>
             <element signature="e#97#112#0" expanded="true" />
           </folding>
@@ -460,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/primefactorstdd/primefactors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state relative-caret-position="371">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding />
         </state>
       </provider>
