@@ -51,9 +51,11 @@ class TestPrimeFactors(unittest.TestCase):
         """tests if factors_of(9) returns [3, 3]"""
         self.assertEqual(factors_of(9), [3, 3])
 
-    # def test_factors_of_10(self):
-    #     """tests if factors_of(10) returns [3, 3]"""
-    #     self.assertEqual(factors_of(10), [2, 5])
+    def test_factors_of_1372140(self):
+        """tests if factors_of(2*2*3*3*7*11*11*15) returns [2,2,3,3,5,7,11,11,15]"""
+        self.assertEqual(9, len(factors_of(2 * 2 * 3 * 3 * 7 * 11 * 11 * 15)))
+        for elt in factors_of(1372140):
+            self.assertIn(elt, [2, 11, 3, 3, 3, 5, 7, 2, 11])
 
 
 if __name__ == '__main__':
