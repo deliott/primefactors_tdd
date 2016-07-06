@@ -15,11 +15,11 @@ def factors_of(num):
     """
     factors = []
     if num > 1:
-        if num % 2 == 0:
+        while num % 2 == 0:
             factors.append(2)
             num = num // 2
-        if num > 1:
-            factors.append(num)
+    if num > 1:
+        factors.append(num)
 
     return factors
 
