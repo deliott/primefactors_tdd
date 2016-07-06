@@ -1,0 +1,9 @@
+# IDE workspace config
+.idea/
+
+# __pycache__/ containing .pyc files & .pyc files
+__pycache__/ 
+* .pyc
+
+# .coverage 
+.coverage
